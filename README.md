@@ -1,7 +1,4 @@
 # X-and-O
-School game in Paskal
-
-You can run in any pascal online compiler and enjoy 
 
 program TicTacToe;
 
